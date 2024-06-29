@@ -45,6 +45,7 @@ Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
 
 Answers
+
 Introduction to GitHub:
  GitHub is a web-based platform for version control and collaborative software development using Git. Its primary features include repositories, branching, pull requests, issue tracking, code review, CI/CD with GitHub Actions, and wikis for documentation. GitHub supports collaboration by allowing multiple developers to work on code simultaneously, review changes, track issues, and automate workflows, enhancing productivity and code quality
 
